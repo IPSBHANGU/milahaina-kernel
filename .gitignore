@@ -1,0 +1,3 @@
+# Ignore kernel-headers 
+# depend on qti_kernel_headers
+kernel-headers/*
